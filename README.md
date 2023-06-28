@@ -1,9 +1,10 @@
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SEOSUK's%20GitHub&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SEOSUK's%20GitHub&fontSize=70" />
 
 <h1 align="left"> 🌱SEOSUK🌱
 <br/>
 
-<image align="left" src=https://github.com/SEOSUK/SEOSUK/assets/99397827/a8f8f4ab-5452-4b19-8b6c-a05c312ca05a width="300" height="400">
+
+<image align="left" src=https://github.com/SEOSUK/SEOSUK/assets/99397827/a1e982e2-be40-4130-9816-38c91226ec2c width="300" height="400">
 
 <h1 align="left"> 🤔 I am ...🤔
 <br/>
@@ -50,4 +51,3 @@ Robotics, Control, AI
 
 <br>
 <h3 align="middle"> 💫 Enjoy 💫 </h3>
-](https://github.com/SEOSUK/SEOSUK/assets/99397827/a1e982e2-be40-4130-9816-38c91226ec2c)https://github.com/SEOSUK/SEOSUK/assets/99397827/a1e982e2-be40-4130-9816-38c91226ec2c
