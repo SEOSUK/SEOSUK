@@ -1,29 +1,27 @@
 <h1 align="left"> 🌱SEOSUK🌱
+<br/>
 
 <image align="left" src=https://github.com/SEOSUK/SEOSUK/assets/99397827/a8f8f4ab-5452-4b19-8b6c-a05c312ca05a width="300" height="400">
 
-<h1 align="left"> 🤔 I am ...🤔
+<h2 align="left"> 🤔 I am ...🤔
 <br/>
 <h4 align="left"> 🤖 Research Interests 🤖</h3>
 Robotics, Control, AI
-<h4 align="left"> 
-<br/>
-<h3 align="l"> 🌿 Tech Stack 🌿 </h3>
+<h4 align="l"> 🌿 Tech Stack 🌿 </h4>
 <div>
   <p align="left">
     <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-    <br>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
     <br>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
   </p>
 </div>
 
-<h3 align="left"> ✈️ Follow Me ✈️ </h3>
+<h4 align="left"> ✈️ Follow Me ✈️ </h4>
 <div>
   <p align="left">
     <a href="https://github.com/SEOSUK"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/SEOSUK"/></a>        <!--&nbsp-->
