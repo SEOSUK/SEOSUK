@@ -1,1 +1,73 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=SEOSUK's%20GitHub&descAlign=70.&descAlignY=44)
+<!--
+**S-CHOI-S/S-CHOI-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+<h1 align="left"> 
+🌱SEOSUK🌱
+
+<image align="left" src=https://github.com/SEOSUK/SEOSUK/assets/99397827/a8f8f4ab-5452-4b19-8b6c-a05c312ca05a width="300" height="350">
+
+<h2 align="left"> 🤔 I am ...🤔
+<h4 align="left"> Seoultech student(2018.03.~)
+<br/>
+<h4 align="left"> 
+<br/><br/>
+<b4 aling="left"> 뭐쓰지~@!~!@~!@~
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<h3 align="left"> 🤖 Research Interests 🤖</h3>
+Robotics, Control, AI
+
+<br/><br/>
+<h3 align="left"> 🌿 Tech Stack 🌿 </h3>
+<div>
+  <p align="left">
+    <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
+    <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+    <br>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+  </p>
+</div>
+
+<h3 align="left"> ✈️ Follow Me ✈️ </h3>
+<div>
+  <p align="left">
+    <a href="https://github.com/SEOSUK"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/SEOSUK"/></a>        <!--&nbsp-->
+    <a href="mailto:seosu99@seoultech.ac.kr"><img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=seosu99@seoultech.ac.kr"/></a>
+    <a href="https://https://www.notion.so/JUMP-to-ROS-521e0b65f01e4aa59db2d797d583c3e4/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/JUMP-to-ROS-521e0b65f01e4aa59db2d797d583c3e4"/>
+    <br/> 
+    <a href="https://mrl.seoultech.ac.kr/index.do"><img src="https://mrl.seoultech.ac.kr/module/upload/file/selectImageView.do?atchFileId=100000003980&fileSn=0" width="4.5%" height="4.5%" "MRL"/></a>
+    <a href="https://mrl.seoultech.ac.kr/index.do"><img src="https://img.shields.io/badge/Mobile Robotics Lab.(MRL)-FFFFFF?style=flat-square&logoColor=white&link=https://mrl.seoultech.ac.kr/index.do"/></a>
+  </p>
+</div>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<h3 align="left"> 🔎 Repository overview 🔍 </h3>
+- Ground station: rqt based ground station. It is for FAC_MAV project
+<br>
+- Dasom: Aerial Manipulator Project. DOB, Admittance control, etc..
+<br>
+- Manipulator Controller: Generates Reference position, calculate errors.
+<br>
+- Test: My laboratory 😄
+<br>
+- Jump-To-ROS: ROS Instructor for beginner 
