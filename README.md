@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=SEOSUK's%20GitHub&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&text=Hi%20there👋&fontAlign=80&rotate=5&fontAlignY=10&desc=SEOSUK's%20GitHub&descAlign=85.&descAlignY=30&fontSize=40)
 <!--
 **S-CHOI-S/S-CHOI-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left"> 
-🌱SEOSUK🌱
+<h1 align="left"> 🌱SEOSUK🌱
 
 <image align="left" src=https://github.com/SEOSUK/SEOSUK/assets/99397827/a8f8f4ab-5452-4b19-8b6c-a05c312ca05a width="300" height="400">
 
