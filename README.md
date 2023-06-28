@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=SEOSUK's%20GitHub&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=SEOSUK's%20GitHub&descAlign=70.&descAlignY=44)
 <!--
 **S-CHOI-S/S-CHOI-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,25 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="left"> 
 🌱SEOSUK🌱
 
-<image align="left" src=https://github.com/SEOSUK/SEOSUK/assets/99397827/a8f8f4ab-5452-4b19-8b6c-a05c312ca05a width="300" height="350">
+<image align="left" src=https://github.com/SEOSUK/SEOSUK/assets/99397827/a8f8f4ab-5452-4b19-8b6c-a05c312ca05a width="300" height="400">
 
-<h2 align="left"> 🤔 I am ...🤔
-<h4 align="left"> Seoultech student(2018.03.~)
+<h1 align="left"> 🤔 I am ...🤔
 <br/>
-<h4 align="left"> 
-<br/><br/>
-<b4 aling="left"> 뭐쓰지~@!~!@~!@~
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-<h3 align="left"> 🤖 Research Interests 🤖</h3>
+<h4 align="left"> 🤖 Research Interests 🤖</h3>
 Robotics, Control, AI
-
-<br/><br/>
-<h3 align="left"> 🌿 Tech Stack 🌿 </h3>
+<h4 align="left"> 
+<br/>
+<h3 align="l"> 🌿 Tech Stack 🌿 </h3>
 <div>
   <p align="left">
     <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white">
@@ -71,3 +64,7 @@ Robotics, Control, AI
 - Test: My laboratory 😄
 <br>
 - Jump-To-ROS: ROS Instructor for beginner 
+
+
+<br>
+<h3 align="middle"> 💫 Enjoy Your Coding 💫 </h3>
