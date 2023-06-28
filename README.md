@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SEOSUK's%20GitHub&fontSize=70" />
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SEOSUK's%20GitHub&fontSize=70" />
 
 <h1 align="left"> 🌱SEOSUK🌱
 <br/>
@@ -50,3 +50,4 @@ Robotics, Control, AI
 
 <br>
 <h3 align="middle"> 💫 Enjoy 💫 </h3>
+](https://github.com/SEOSUK/SEOSUK/assets/99397827/a1e982e2-be40-4130-9816-38c91226ec2c)https://github.com/SEOSUK/SEOSUK/assets/99397827/a1e982e2-be40-4130-9816-38c91226ec2c
