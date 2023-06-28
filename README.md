@@ -4,7 +4,7 @@
 <br/>
 
 
-<image align="left" src=https://github.com/SEOSUK/SEOSUK/assets/99397827/a1e982e2-be40-4130-9816-38c91226ec2c width="300" height="400">
+<image align="left" src=https://github.com/SEOSUK/SEOSUK/assets/99397827/e7e6d730-a5de-43e0-9202-5e3233d419e2 width="300" height="400">
 
 <h1 align="left"> 🤔 I am ...🤔
 <br/>
