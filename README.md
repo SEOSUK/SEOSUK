@@ -1,8 +1,3 @@
-![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&text=Hi%20there👋&fontAlign=80&rotate=5&fontAlignY=10&desc=SEOSUK's%20GitHub&descAlign=80.&descAlignY=30&fontSize=40)
-<!--
-**S-CHOI-S/S-CHOI-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
