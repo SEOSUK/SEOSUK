@@ -5,7 +5,7 @@
 
 <image align="left" src=https://github.com/SEOSUK/SEOSUK/assets/99397827/a8f8f4ab-5452-4b19-8b6c-a05c312ca05a width="300" height="400">
 
-<h2 align="left"> 🤔 I am ...🤔
+<h1 align="left"> 🤔 I am ...🤔
 <br/>
 <h4 align="left"> 🤖 Research Interests 🤖</h3>
 Robotics, Control, AI
@@ -35,7 +35,7 @@ Robotics, Control, AI
   </p>
 </div>
 
-<br>
+
 <h3 align="left"> 🔎 Repository overview 🔍 </h3>
 - Ground station: rqt based ground station. It is for FAC_MAV project
 <br>
