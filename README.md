@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SEOSUK's%20GitHub&fontSize=70" />
+
 <h1 align="left"> 🌱SEOSUK🌱
 <br/>
 
@@ -33,7 +35,6 @@ Robotics, Control, AI
   </p>
 </div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 <h3 align="left"> 🔎 Repository overview 🔍 </h3>
 - Ground station: rqt based ground station. It is for FAC_MAV project
