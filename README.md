@@ -52,21 +52,3 @@ Robotics, Control, AI
 
 <br>
 <h3 align="middle"> 💫 Enjoy 💫 </h3>
-
-
-
-& cd ~/[경로까지]
-
-& git init                         → git hub 쓸수있는 directory로 만들기
-
-$ git remote add origin [깃헙 repository주소]                    → branch 생성? (일단그냥master로하자)
-
-$ git status                         →(git 상태보기)
-
-$ git add .                         →(git이 건드릴 파일 추가)
-
-$ git commit -m "커밋 로그"                          → 커밋
-
-$ git remote -v                          → 커밋 내용을 원격저장소에 보냄 (뭔소리지)
-
-$ git push origin master(main)                         →origin 브랜치에다가 쏘기 (github에 업로드)
