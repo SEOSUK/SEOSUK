@@ -6,8 +6,8 @@
 
 <image align="left" src=https://github.com/SEOSUK/SEOSUK/assets/99397827/e7e6d730-a5de-43e0-9202-5e3233d419e2 width="300" height="400">
 
-<h1 align="left"> 🤔 I am ...🤔
-<br/>
+<h1 align="left"> 🤔 I am ...🤔 
+  <br/>
 <h4 align="left"> 🤖 Research Interests 🤖</h3>
 Robotics, Control, AI
 <h4 align="l"> 🌿 Tech Stack 🌿 </h4>
