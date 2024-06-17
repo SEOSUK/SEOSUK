@@ -38,6 +38,8 @@ Robotics, Control, AI
 
 
 <h3 align="left"> 🔎 Repository overview 🔍 </h3>
+- [On-going] Inch Worm : Series Elastic Actuator based Aerial manipulation system
+<br>
 - Ground station: rqt based ground station. It is for FAC_MAV project
 <br>
 - Dasom: Aerial Manipulator Project. DOB, Admittance control, etc..
