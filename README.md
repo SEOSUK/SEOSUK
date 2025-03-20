@@ -8,7 +8,7 @@
 <h1 align="left"> 🤔 I am ...🤔 </h1>
   
 <h4 align="left"> 🤖 Research Interests 🤖 </h4>
-Robotics, Aerial Manipulation, Control
+Robotics, Aerial Physical Interaction, Control
 
 <h4 align="left"> 🌿 Tech Stack 🌿 </h4>
 <div>
