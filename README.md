@@ -44,7 +44,7 @@ Robotics, Aerial Physical Interaction, Control
 - **Flying Pen** *(2024.10. ~)*  
   - A contact-maintaining (push and sliding) task project using Crazyflie-based aerial manipulation.  
 
-- **SEDASOM** *(2024.02. ~)*  
+- **SEDA Project** *(2024.02. ~)*  
   - A compliant aerial manipulation project utilizing SEDA for stable interactions.  
 
 
