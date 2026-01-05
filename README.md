@@ -39,11 +39,10 @@ Robotics, Aerial Physical Interaction, Control
 
 ---
 
-<h3 align="left"> 📊 GitHub Activity 📊 </h3>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEOSUK&theme=default"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SEOSUK&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
