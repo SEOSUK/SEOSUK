@@ -38,9 +38,13 @@ Robotics, Aerial Physical Interaction, Control
 </div>
 
 ---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEOSUK/SEOSUK/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/SEOSUK/SEOSUK/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/SEOSUK/SEOSUK/output/github-contribution-grid-snake-dark.svg" alt="snake dark"/>
 </p>
+
+---
 
 
 <h3 align="left"> 🔎 On-going Projects 🔍 </h3>
