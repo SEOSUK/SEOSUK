@@ -38,6 +38,12 @@ Robotics, Aerial Physical Interaction, Control
 </div>
 
 ---
+<h3 align="left"> 📊 GitHub Activity 📊 </h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEOSUK&show_icons=true&theme=default&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEOSUK&layout=compact&theme=default&hide_border=true" width="48%"/>
+</p>
 
 <h3 align="left"> 🔎 On-going Projects 🔍 </h3>
 
