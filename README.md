@@ -39,9 +39,10 @@ Robotics, Aerial Physical Interaction, Control
 
 ---
 
+<h3 align="left"> 📊 GitHub Activity 📊 </h3>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEOSUK/SEOSUK/output/github-contribution-grid-snake.svg" alt="snake"/>
-  <img src="https://raw.githubusercontent.com/SEOSUK/SEOSUK/output/github-contribution-grid-snake-dark.svg" alt="snake dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEOSUK&theme=default"/>
 </p>
 
 ---
