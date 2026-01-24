@@ -38,10 +38,17 @@ Robotics, Aerial Physical Interaction, Control
 </div>
 
 ---
+<table align="center">
+  <tr>
+    <td align="center" width="65%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEOSUK&theme=github-compact&hide_border=true" />
+    </td>
+    <td align="center" width="35%">
+      <img src="https://github-readme-stats.vercel.app/api?username=SEOSUK&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SEOSUK&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 
 ---
@@ -49,16 +56,17 @@ Robotics, Aerial Physical Interaction, Control
 
 <h3 align="left"> 🔎 On-going Projects 🔍 </h3>
 
-- **Flying Pen** *(2024.10. ~)*  
+- **Flying Pen** *(2025.02. ~)*  
   - A contact-maintaining (push and sliding) task project using Crazyflie-based aerial manipulation.  
 
-- **SEDA Project** *(2024.02. ~)*  
-  - A compliant aerial manipulation project utilizing SEDA for stable interactions.  
-
-
-
+- **PX4-Palletrone** *(2025.04. ~)*
+  - Online Center of mass Estimation for FmUAV using PX4-based flight control system
+  
 <h3 align="left"> 💯 Completed Projects 💯 </h3>
 
+- **SEDA Project** *(2024.02. ~)*  
+  - A compliant aerial manipulation project utilizing SEDA for stable interactions.
+  
 - **DASOM** *(2023.01. ~ 2024.01.)*  
   - A remotely controlled compliant aerial manipulation project.  
 
