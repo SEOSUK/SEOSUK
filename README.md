@@ -1,89 +1,64 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SEOSUK's%20GitHub&fontSize=70" />
-
-<h1 align="left"> 🌱SEOSUK🌱
-<br/>
-
-<image align="left" src="https://github.com/SEOSUK/SEOSUK/assets/99397827/e7e6d730-a5de-43e0-9202-5e3233d419e2" width="300" height="400">
-
-<h1 align="left"> 🤔 I am ...🤔 </h1>
-  
-<h4 align="left"> 🤖 Research Interests 🤖 </h4>
-Robotics, Aerial Physical Interaction, Control
-
-<h4 align="left"> 🌿 Tech Stack 🌿 </h4>
-<div>
-  <p align="left">
-    <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white">
-    <img src="https://img.shields.io/badge/Gazebo-000000?style=flat-square&logo=gazebo&logoColor=white">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
-    <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-    <br>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-  </p>
-</div>
-
-<h4 align="left"> ✈️ Follow Me ✈️ </h4>
-<div>
-  <p align="left">
-    <a href="https://github.com/SEOSUK"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/SEOSUK"/></a>
-    <a href="mailto:seosu99@seoultech.ac.kr"><img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=seosu99@seoultech.ac.kr"/></a>
-    <a href="https://www.notion.so/JUMP-to-ROS-521e0b65f01e4aa59db2d797d583c3e4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/JUMP-to-ROS-521e0b65f01e4aa59db2d797d583c3e4"/></a>
-    <br/> 
-    <a href="https://mrl.seoultech.ac.kr/index.do"><img src="https://mrl.seoultech.ac.kr/module/upload/file/selectImageView.do?atchFileId=100000003980&fileSn=0" width="4.5%" height="4.5%" "MRL"/></a>
-    <a href="https://mrl.seoultech.ac.kr/index.do"><img src="https://img.shields.io/badge/Mobile Robotics Lab.(MRL)-FFFFFF?style=flat-square&logoColor=white&link=https://mrl.seoultech.ac.kr/index.do"/></a>
-  </p>
-</div>
-
----
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="65%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEOSUK&theme=github-compact&hide_border=true" />
+    <td width="240" align="center">
+      <img src="https://github.com/SEOSUK/SEOSUK/assets/99397827/e7e6d730-a5de-43e0-9202-5e3233d419e2"
+           width="210">
     </td>
-    <td align="center" width="35%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SEOSUK&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" />
+    <td valign="middle">
+      <h1>Seuk Seo</h1>
+      <b>Robotics Software Engineer</b><br>
+      Aerial Robotics · Robot Control · State Estimation
+      <br><br>
+      M.S. in Mechanical Design & Robotics Engineering, SeoulTech<br>
+      Mobile Robotics Lab (MRL)
     </td>
   </tr>
 </table>
 
+## Research Interests
 
+**Robot Control · Aerial Manipulation · State Estimation · Physical Robot–Environment Interaction**
+
+## Selected Projects
+
+### ✈️ [Flying Pen](https://github.com/SEOSUK/FLYINGPEN)
+**2025.01 – Present**
+
+- **Description:** Contact-aware aerial manipulation on unstructured surfaces using a Crazyflie-based platform.
+- **Keywords:** Normal Estimation · Wrench Estimation · Surface Swiping · Crazyflie
 
 ---
 
+### 🚁 MOCE
+**2025.04 – 2026.03**
 
-<h3 align="left"> 🔎 On-going Projects 🔍 </h3>
+- **Description:** Online center-of-mass estimation and control adaptation for fully actuated multirotor UAVs.
+- **Keywords:** CoM Estimation · Control Allocation · Fully-Actuated Multirotor · PX4
 
-- **Flying Pen** *(2025.02. ~)*  
-  - A contact-maintaining (push and sliding) task project using Crazyflie-based aerial manipulation.  
+---
 
-- **PX4-Palletrone** *(2025.04. ~)*
-  - Online Center of mass Estimation for FmUAV using PX4-based flight control system
-  
-<h3 align="left"> 💯 Completed Projects 💯 </h3>
+### 🦾 [SEDA](https://github.com/SEOSUK/DONE-SEDA_Project)
+**2024.02 – 2024.10**
 
-- **SEDA Project** *(2024.02. ~)*  
-  - A compliant aerial manipulation project utilizing SEDA for stable interactions.
-  
-- **DASOM** *(2023.01. ~ 2024.01.)*  
-  - A remotely controlled compliant aerial manipulation project.  
+- **Description:** Aerial manipulator with series-elastic actuation for compliant physical interaction.
+- **Keywords:** Series Elastic Actuator · Passive Compliance · Compliant Control · Aerial Physical Interaction
 
-- **ICROS** *(2023.01. ~ 2023.07.)*  
-  - A sub-project of DASOM focused on developing a lightweight admittance manipulator.  
+---
 
-- **Haptic Manipulator** *(2022.08. ~ 2022.12.)*  
-  - Developed a force-feedback remote operation manipulator, marking my first interaction with robotic manipulators and Dynamixel motors.  
+### 🤖 [D.A.S.O.M](https://github.com/SEOSUK/DONE-Dasom)
+**2023.01 – 2024.01**
 
+- **Description:** Teleoperated aerial manipulation system for object interaction and peg-in-hole tasks.
+- **Keywords:** Teleoperation · Aerial Manipulation · Peg-in-Hole · Force Estimation
 
+## Other
 
-<h3 align="left"> 📌 Miscellaneous 📌 </h3>
+### [Jump to ROS](https://github.com/SEOSUK/Jump-to-ROS)
+**2023**
 
-- **PX4 Customization** *(2024.09. ~)*  
-  - Customizing the Pixhawk flight controller firmware for enhanced control.  
+- **Description:** ROS educational materials developed for the Mobile Robotics Lab.
+- **Keywords:** ROS · C++ · Dynamixel
 
-- **Jump to ROS** *(2023.01.)*  
-  - Educational materials for ROS, created for the Mobile Robotics Lab.  
+## Contact
 
-<h3 align="middle"> 💫 Enjoy 💫 </h3>
+📧 seosu99@seoultech.ac.kr
