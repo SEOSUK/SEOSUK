@@ -29,7 +29,7 @@
 
 ---
 
-### 🚁 MOCE
+### 🚁 [MOCE 2.0](https://github.com/SEOSUK/MOCE)
 **2025.04 – 2026.03**
 
 - **Description:** Online center-of-mass estimation and control adaptation for fully actuated multirotor UAVs.
