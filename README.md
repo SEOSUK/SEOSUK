@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="240" align="center">
-      <img src="https://github.com/SEOSUK/SEOSUK/assets/99397827/e7e6d730-a5de-43e0-9202-5e3233d419e2"
+      <img src="https://github.com/user-attachments/assets/b91d6e32-048a-4dc4-b104-58e5ac587341"
            width="210">
     </td>
     <td valign="middle">
