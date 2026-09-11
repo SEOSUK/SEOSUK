@@ -53,6 +53,14 @@
 
 ## Other
 
+### 🚗 [H-Mobility Class Autonomous Driving](https://github.com/SEOSUK/H-Mobility-Autonomous-Advanced-Course/tree/team-7)
+**2026.08**
+
+- **Description:** ROS 2-based camera autonomous driving system developed during the H-Mobility Class advanced course.
+- **Keywords:** ROS 2 · YOLO Segmentation · Path Planning · PID Steering Control
+
+---
+
 ### [Jump to ROS](https://github.com/SEOSUK/Jump-to-ROS)
 **2023**
 
